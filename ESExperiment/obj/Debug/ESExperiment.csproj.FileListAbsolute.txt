@@ -1,0 +1,14 @@
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\ESExperiment.exe.config
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\ESExperiment.exe
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\ESExperiment.pdb
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Elasticsearch.Net.dll
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Nest.dll
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Newtonsoft.Json.dll
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Elasticsearch.Net.pdb
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Elasticsearch.Net.xml
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Nest.pdb
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Nest.xml
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\bin\Debug\Newtonsoft.Json.xml
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\obj\Debug\ESExperiment.csprojResolveAssemblyReference.cache
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\obj\Debug\ESExperiment.exe
+c:\users\apatel\documents\visual studio 2015\Projects\ESExperiment\ESExperiment\obj\Debug\ESExperiment.pdb
